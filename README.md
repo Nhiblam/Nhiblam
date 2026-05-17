@@ -11,7 +11,7 @@
 
 Computer Engineering student at San Jose State University with hands-on experience in **real-time systems, distributed architectures, and embedded development**.
 
-I build systems that operate under real-world constraints — low latency, high throughput, and high reliability.
+I build systems that operate under real-world constraints by low latency, high throughput, and high reliability.
 
 ---
 
