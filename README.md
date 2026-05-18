@@ -17,7 +17,7 @@ I build systems that operate under real-world constraints by low latency, high t
 
 ### Featured Work
 
-#### mmWave Radar Perception System (Texas Instruments), [Link](https://github.com/SJSU-CMPE-195/group-project-group-30)
+#### mmWave Radar Perception System (Texas Instruments), [Link](https://github.com/Nhiblam/mmWave-Radar)
 
 * Developed a 3-radar perception system in Python using AWS EC2 with SQL database ingest and WebSockets to give real time, privacy focused birds eye view perception for robots.
 * Implemented in Python a multi-stage sensor fusion pipeline combining DBSCAN for group clustering, RANSAC plane estimation, ICP pointcloud registration, and FPFH feature matching, achieving 94% object classification accuracy on real-world test data.
